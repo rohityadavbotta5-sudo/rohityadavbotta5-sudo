@@ -89,7 +89,9 @@ Python CLI automating incident classification, ticket creation, and reporting ac
 
 <div align="center">
 
-<img src="https://github-readme-stats-roan-three-44.vercel.app/api/top-langs/?username=rohityadavbotta5-sudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&text_color=e2e8f0" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohityadavbotta5-sudo&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="48%"/>
+
+
 
 </div>
 
