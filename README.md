@@ -115,7 +115,7 @@ Python CLI automating incident classification, ticket creation, and reporting ac
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohityadavbotta5-sudo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rohityadavbotta5-sudo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
