@@ -111,6 +111,35 @@ Python CLI automating incident classification, ticket creation, and reporting ac
 
 <br/>
 
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohityadavbotta5-sudo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<br/>
+
+## 🎯 Currently Learning / 2026 Goals
+
+- 🧠 Applied AI/LLM engineering — prompt design, RAG pipelines, and API-based AI product integration (used in CookIt AI's Gemini AI features)
+- ☁️ Going deeper on AWS beyond the Foundations level — EC2, S3, and IAM in real deployed projects
+- 🧪 Expanding automated testing practice (xUnit) across more of my .NET projects
+- 🎤 Actively interviewing — always happy to talk through a system design problem or a .NET API challenge
+
+<br/>
+
+## 💬 Random Dev Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+<br/>
+
 ## 💼 Experience Snapshot
 
 | Role | Company | Duration |
