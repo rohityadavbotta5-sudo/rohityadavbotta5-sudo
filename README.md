@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Botta%20Rohit%20Yadav&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20.NET%20Developer%20%7C%20Building%20Clean%2C%20Scalable%20APIs&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
+<a href="https://rohityadavportfolio.lovable.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/botta-rohit-yadav/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -92,7 +95,6 @@ Python CLI automating incident classification, ticket creation, and reporting ac
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohityadavbotta5-sudo&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="48%"/>
 
 
-
 </div>
 
 <br/>
@@ -108,17 +110,7 @@ Python CLI automating incident classification, ticket creation, and reporting ac
 - 💻 **Full Stack .NET Development** — UpGrad
 - 🎨 **Front-End Developer** — IBM/Edunet Foundation
 
-<br/>
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rohityadavbotta5-sudo&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
-<br/>
 
 ## 🎯 Currently Learning / 2026 Goals
 
@@ -154,6 +146,7 @@ Python CLI automating incident classification, ticket creation, and reporting ac
 
 ### 📫 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/-Botta%20Rohit%20Yadav%20—%20Backend%20%26%20AI%20Engineer-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://rohityadavportfolio.lovable.app/)
 [![LinkedIn](https://img.shields.io/badge/-Botta%20Rohit%20Yadav-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/botta-rohit-yadav/)
 [![Gmail](https://img.shields.io/badge/-rohit.botta5%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rohit.botta5@gmail.com)
 
